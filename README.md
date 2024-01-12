@@ -1,2 +1,2 @@
-# PowerBI_Projects
-Power BI End to End Projects | Dashboards 
+# HRM_Attrition_Analysis
+Data Cleaning|Data Interpretation|Power BI End to End Projects | Dashboards 
